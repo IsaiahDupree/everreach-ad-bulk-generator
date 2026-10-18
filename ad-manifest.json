@@ -1,0 +1,182 @@
+[
+  {
+    "id": "AD-001",
+    "angle_code": "BUSY",
+    "awareness_level": "unaware",
+    "headline": "You're Not Bad at Relationships",
+    "body": "You're just overloaded. One minute a day keeps your network from drifting away.",
+    "color": "#1a1a2e",
+    "filename": "ER-BUSY-01-unaware.png"
+  },
+  {
+    "id": "AD-002",
+    "angle_code": "BUSY",
+    "awareness_level": "unaware",
+    "headline": "Your Calendar Is Full",
+    "body": "But your people still matter. EverReach helps you stay connected without the effort.",
+    "color": "#1a1a2e",
+    "filename": "ER-BUSY-02-unaware.png"
+  },
+  {
+    "id": "AD-003",
+    "angle_code": "CRINGE",
+    "awareness_level": "unaware",
+    "headline": "Follow-Ups That Sound Like You",
+    "body": "Not a template. You edit it, approve it. It sounds like you.",
+    "color": "#2d1a2d",
+    "filename": "ER-CRINGE-03-unaware.png"
+  },
+  {
+    "id": "AD-004",
+    "angle_code": "CRINGE",
+    "awareness_level": "unaware",
+    "headline": "The Starting Point, Not Final",
+    "body": "AI gives you the draft. You make it yours. No cringe, just speed.",
+    "color": "#2d1a2d",
+    "filename": "ER-CRINGE-04-unaware.png"
+  },
+  {
+    "id": "AD-005",
+    "angle_code": "REVENUE",
+    "awareness_level": "problem_aware",
+    "headline": "The Bag You Missed Was a Follow-Up",
+    "body": "You didn't send. Lost money isn't a bad product. It's timing you missed.",
+    "color": "#2d1b00",
+    "filename": "ER-REVENUE-05-problem_aware.png"
+  },
+  {
+    "id": "AD-006",
+    "angle_code": "REVENUE",
+    "awareness_level": "problem_aware",
+    "headline": "Relationships Are Pipeline",
+    "body": "Pipeline decays when you wait. EverReach tells you who matters today.",
+    "color": "#2d1b00",
+    "filename": "ER-REVENUE-06-problem_aware.png"
+  },
+  {
+    "id": "AD-007",
+    "angle_code": "REVENUE",
+    "awareness_level": "problem_aware",
+    "headline": "Your Network Isn't Small",
+    "body": "Your follow-up system is. Real cost isn't missing a message—it's missing timing.",
+    "color": "#2d1b00",
+    "filename": "ER-REVENUE-07-problem_aware.png"
+  },
+  {
+    "id": "AD-008",
+    "angle_code": "ORG",
+    "awareness_level": "problem_aware",
+    "headline": "Notes Don't Tell You Who Needs You",
+    "body": "Today. Your CRM stores info. EverReach triggers action on the right person.",
+    "color": "#1a2d1a",
+    "filename": "ER-ORG-08-problem_aware.png"
+  },
+  {
+    "id": "AD-009",
+    "angle_code": "ORG",
+    "awareness_level": "problem_aware",
+    "headline": "Storage Isn't Maintenance",
+    "body": "Warmth score beats static notes. EverReach tells you what to DO next.",
+    "color": "#1a2d1a",
+    "filename": "ER-ORG-09-problem_aware.png"
+  },
+  {
+    "id": "AD-010",
+    "angle_code": "ORG",
+    "awareness_level": "problem_aware",
+    "headline": "Relationships Don't Disappear, They Decay",
+    "body": "EverReach prevents that. It's not a CRM—it's your action layer.",
+    "color": "#1a2d1a",
+    "filename": "ER-ORG-10-problem_aware.png"
+  },
+  {
+    "id": "AD-011",
+    "angle_code": "CRM",
+    "awareness_level": "solution_aware",
+    "headline": "This Isn't a CRM",
+    "body": "It's a daily 'who matters today' list. Action-first, no dashboard hell.",
+    "color": "#0d2137",
+    "filename": "ER-CRM-11-solution_aware.png"
+  },
+  {
+    "id": "AD-012",
+    "angle_code": "CRM",
+    "awareness_level": "solution_aware",
+    "headline": "No Dashboard Hell, No Logging",
+    "body": "Just action. EverReach gives you a next-best person and a message. Done.",
+    "color": "#0d2137",
+    "filename": "ER-CRM-12-solution_aware.png"
+  },
+  {
+    "id": "AD-013",
+    "angle_code": "CRM",
+    "awareness_level": "solution_aware",
+    "headline": "CRMs Store Info, EverReach Triggers Action",
+    "body": "Daily list concept. No pipelines. The simplest way to stay connected.",
+    "color": "#0d2137",
+    "filename": "ER-CRM-13-solution_aware.png"
+  },
+  {
+    "id": "AD-014",
+    "angle_code": "ORG",
+    "awareness_level": "solution_aware",
+    "headline": "The Action Layer Your System Lacks",
+    "body": "You have notes and CRM. EverReach tells you who to message today.",
+    "color": "#1a2d1a",
+    "filename": "ER-ORG-14-solution_aware.png"
+  },
+  {
+    "id": "AD-015",
+    "angle_code": "ORG",
+    "awareness_level": "solution_aware",
+    "headline": "Your CRM Stores, EverReach Acts",
+    "body": "Warmth tracking + AI messages = 60-second follow-ups. Built for founders.",
+    "color": "#1a2d1a",
+    "filename": "ER-ORG-15-solution_aware.png"
+  },
+  {
+    "id": "AD-016",
+    "angle_code": "CRM",
+    "awareness_level": "solution_aware",
+    "headline": "Never Let an Important Relationship Go Cold",
+    "body": "EverReach surfaces who needs you and drafts the message. You stay in control.",
+    "color": "#0d2137",
+    "filename": "ER-CRM-16-solution_aware.png"
+  },
+  {
+    "id": "AD-017",
+    "angle_code": "PRIVACY",
+    "awareness_level": "product_aware",
+    "headline": "You Choose What to Connect",
+    "body": "You approve every message. No auto-send. No sneaky sync. Full control.",
+    "color": "#1a1a1a",
+    "filename": "ER-PRIVACY-17-product_aware.png"
+  },
+  {
+    "id": "AD-018",
+    "angle_code": "PRIVACY",
+    "awareness_level": "product_aware",
+    "headline": "Your Relationships, Your Control",
+    "body": "Permission controls. You approve. No data goes anywhere without your say.",
+    "color": "#1a1a1a",
+    "filename": "ER-PRIVACY-18-product_aware.png"
+  },
+  {
+    "id": "AD-019",
+    "angle_code": "PRIVACY",
+    "awareness_level": "product_aware",
+    "headline": "No Auto-Send, No Sneaky Sync",
+    "body": "You're in charge. EverReach gives suggestions—you decide and approve every message.",
+    "color": "#1a1a1a",
+    "filename": "ER-PRIVACY-19-product_aware.png"
+  },
+  {
+    "id": "AD-020",
+    "angle_code": "REVENUE",
+    "awareness_level": "product_aware",
+    "headline": "One Saved Relationship Covers the Cost",
+    "body": "Is it worth paying for? One follow-up that closes pays for itself.",
+    "color": "#2d1b00",
+    "filename": "ER-REVENUE-20-product_aware.png"
+  }
+]
